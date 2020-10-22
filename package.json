@@ -1,0 +1,17 @@
+{
+  "name": "role-bot",
+  "version": "1.0.0",
+  "description": "Manages user roles",
+  "main": "bot.js",
+  "author": "Nitori",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "pg": "^8.4.1",
+    "pino": "^6.7.0",
+    "pino-pretty": "^4.3.0",
+    "recursive-readdir": "^2.2.2",
+    "winston": "^3.2.1"
+  }
+}

@@ -1,0 +1,5 @@
+# node modules can be installed on host machine by running 'npm install'
+node_modules/
+
+# Environment variables, host should change .env.example to .env
+.env
